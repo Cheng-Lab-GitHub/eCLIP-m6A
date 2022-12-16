@@ -9,6 +9,7 @@ Core code for RF model, AUC plot and relative importance plot.
 ##### 02_hyperparameter_turning.R
 Core code for model comparison, ntree/mtry truning.
 
+## Data
 ##### RBP eCLIP/Histone CHIP data
 RBP_eCLIP_RMBase_HEPG2_GSM908331_matrix_mean_model_Histone_abs.zip
 RBP_eCLIP_RMBase_HEPG2_GSM908331_matrix_mean_model_abs.zip
